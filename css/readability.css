@@ -1,0 +1,15 @@
+/* Keep the timer elements for existing background logic. */
+#countdown,#provider-countdown,.countdown-box{display:none!important}
+#task-dialog .dialog-head #task-title{color:#f8fafc!important;font-size:1.25rem!important;font-weight:700!important;line-height:1.4!important;letter-spacing:0!important;text-transform:none!important}
+#task-dialog .provider-heading .eyebrow{color:#f8fafc!important;font-size:1.375rem!important;font-weight:700!important;line-height:1.4!important;letter-spacing:0!important;text-transform:none!important}
+#task-dialog .provider-heading p{color:#e2e8f0!important;font-size:1rem!important;line-height:1.6!important;margin-top:.5rem}
+#task-dialog .dialog-head,#task-dialog .provider-heading{background:#151b24!important;padding:1rem!important;border-radius:.75rem}
+#task-dialog .sponsor-info{background:#153343!important;border:1px solid #46788e!important;border-radius:12px;padding:18px!important}
+#task-dialog .sponsor-info p{color:#eff8ff!important;font-size:1rem!important;line-height:1.7!important;margin:0!important}
+#task-dialog .sponsor-info strong{color:#8ee9ff!important;font-weight:750!important}
+#task-dialog .sponsor-info .info-icon{background:#8ee9ff!important;color:#10232f!important;border-color:#8ee9ff!important}
+#task-dialog .sponsor-steps{list-style:none!important;padding:0!important;margin:20px 0!important;display:grid!important;gap:12px!important}
+#task-dialog .sponsor-steps li{display:flex!important;align-items:center!important;gap:14px!important;background:#202c3c!important;border:1px solid #43546b!important;border-radius:10px!important;padding:16px!important}
+#task-dialog .sponsor-steps li>span{display:flex!important;align-items:center!important;justify-content:center!important;flex:0 0 34px!important;width:34px!important;height:34px!important;border-radius:50%!important;background:#9be9b6!important;color:#112d1c!important;font-size:1rem!important;font-weight:800!important}
+#task-dialog .sponsor-steps p{color:#f1f5fb!important;font-size:1rem!important;line-height:1.6!important;margin:0!important}
+#task-dialog .sponsor-steps strong{color:#a6f1bf!important;font-weight:750!important}
